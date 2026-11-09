@@ -78,7 +78,7 @@ I enjoy building applications, experimenting with different tools and continuous
 I'm currently focusing on improving my Python and PostgreSQL skills.
 
 ```text
-Python       █████████░░░░░░
+Python       ██████████░░░░░
 PostgreSQL   ████████░░░░░░░
 ```
 
@@ -88,59 +88,37 @@ PostgreSQL   ████████░░░░░░░
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 A few projects that reflect my curiosity and my interest in web development, graphics and interactive applications.
 
-<table>
-  <tr>
-    <td width="180">
-      <img src="./assets/projects/threejs-mirror.png" alt="Three.js mirror visual preview" width="150">
-    </td>
-    <td>
+<div>
+      <p>
+        <img src="./assets/projects/threejs-mirror.png" alt="Three.js mirror visual preview">
+      </p>
       <h3>🪞 Three.js — WebGL Mirror</h3>
       <p><strong>WebGL · 3D Graphics · GLSL</strong></p>
       <p>Original real-time mirror implementation for Three.js, using a virtual camera, oblique frustum clipping and a render target to create planar reflections.</p>
       <a href="https://threejs.org/examples/#webgl_mirror">View the demonstration ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><hr></td>
-  </tr>
-  <tr>
-    <td width="180">
-      <img src="./assets/projects/ajsboy.png" alt="AjsBoy Game Boy visual preview" width="150">
-    </td>
-    <td>
+</div>
+<hr>
+<div>
+  <p>
+      <img src="./assets/projects/ajsboy.png" alt="AjsBoy Game Boy visual preview" >
+  </p>
       <h3>🎮 AjsBoy — Game Boy Emulator</h3>
       <p><strong>JavaScript · Emulation</strong></p>
       <p>A personal Game Boy emulator project featuring a complete CPU implementation, background rendering, ROM loading and keyboard input.</p>
       <a href="https://github.com/Slayvin/AjsBoy">Explore the repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><hr></td>
-  </tr>
-  <tr>
-    <td width="180">
-      <img src="./assets/projects/famous-2048.png" alt="Famo.us 2048 visual preview" width="150">
-    </td>
-    <td>
+</div>  
+<hr>
+  <div>
+    <p>
+      <img src="./assets/projects/famous-2048.png" alt="Famo.us 2048 visual preview" >
+    </p>
       <h3>🧩 Famo.us 2048</h3>
       <p><strong>JavaScript · Famo.us · Interactive UI</strong></p>
       <p>A faithful clone of the original 2048 puzzle game, built with the Famo.us framework for smoother interactions and animations.</p>
       <a href="https://github.com/Slayvin/Famo.us-2048">Explore the repository ↗</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slayvin&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slayvin&layout=compact&theme=tokyonight&hide_border=true)
+  </div>
 
 ---
 
